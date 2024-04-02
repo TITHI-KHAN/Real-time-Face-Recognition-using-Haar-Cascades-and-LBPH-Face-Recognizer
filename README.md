@@ -26,6 +26,9 @@
 
 9. **Exiting**: The program exits the loop if the 'q' key is pressed, releasing the video capture and closing all OpenCV windows.
 
+*** **roi** -> region of interest (face).
+
+*** **In pose detection**, there are many roi such as face, nose, neck, shoulder, etc.
 
 ## Key Points:
 
