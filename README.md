@@ -2,7 +2,7 @@
 
 ## To run the code, please either use "Visual Studio" or "Jupyter Notebook from Anaconda Navigator".
 
-### For the project video, please check the "Project Video" file. Thank you.
+### Thank you.
 
 <br>
 
